@@ -6,6 +6,10 @@
     margin: 0em;
 }
 
+#noteAlertMsg {
+    color:#FFF;
+}
+
 html {
     width: 100%;
 }
